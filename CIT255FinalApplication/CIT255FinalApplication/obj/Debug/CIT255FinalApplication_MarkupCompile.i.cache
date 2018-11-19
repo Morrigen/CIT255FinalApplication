@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Momo\Desktop\CIT255FinalApplication\CIT255FinalApplication\obj\Debug\
+C:\Users\Momo\Source\Repos\CIT255FinalApplication\CIT255FinalApplication\CIT255FinalApplication\obj\Debug\
 CIT255FinalApplication
 none
 false
 DEBUG;TRACE
-C:\Users\Momo\Desktop\CIT255FinalApplication\CIT255FinalApplication\App.xaml
-11151548125
+C:\Users\Momo\Source\Repos\CIT255FinalApplication\CIT255FinalApplication\CIT255FinalApplication\App.xaml
+3-1876182403
 
-91862630171
+121675864812
 13738642453
-MainWindow.xaml;
+MainWindow.xaml;RecipeDetail.xaml;RecipeEdit.xaml;
 
-True
+False
 
